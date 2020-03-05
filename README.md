@@ -32,7 +32,7 @@ Repetitoriumsmaterialien:
 | Mai 18, 2020 | Latex III. Präsentationen | |
 | Mai 25, 2020| | Firmenvortrag |
 | Jun. 01, 2020 | Kein Repetitorium | |
-| Jun. 08, 2020 | Firmenvortrag | |
+| Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} | |
 | Jun. 15, 2020 | Kolloquium | |
 | Jun. 22, 2020 | Firmenvortrag | |
 | Jun. 29, 2020 | Kolloquium| |
