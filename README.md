@@ -25,3 +25,16 @@ Repetitoriumsmaterialien:
 
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
+| Apr. 20, 2020 | Übersicht ; Wissenschaftliches Schreiben  |[Korrekturlesen](https://www.uni-muenchen.de/studium/studium_aktuell/neuigkeiten/ia/korrekturlesen-studierende/index.html) |
+| Apr. 27, 2020 | Latex I. Basics; Latex II. Dokumentenstruktur  | |
+| Mai 04, 2020 | Aufbau von Machine Learning Experimenten| |
+| Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
+| Mai 18, 2020 | Latex III. Präsentationen | |
+| Mai 25, 2020| | Firmenvortrag |
+| Jun. 01, 2020 | Kein Repetitorium | |
+| Jun. 08, 2020 | Firmenvortrag | |
+| Jun. 15, 2020 | Kolloquium | |
+| Jun. 22, 2020 | Firmenvortrag | |
+| Jun. 29, 2020 | Kolloquium| |
+| Jul. 06, 2020 | Firmenvortrag | |
+| Jul. 13, 2020 | Firmenvortrag| |
