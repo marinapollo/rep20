@@ -30,7 +30,7 @@ Repetitoriumsmaterialien:
 | Mai 04, 2020 | Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
 | Mai 18, 2020 | Latex III. Präsentationen | |
-| Mai 25, 2020| | Firmenvortrag |
+| Mai 25, 2020| | Firmenvortrag | |
 | Jun. 01, 2020 | Kein Repetitorium | |
 | Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} | |
 | Jun. 15, 2020 | Kolloquium | |
