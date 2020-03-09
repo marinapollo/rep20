@@ -36,5 +36,5 @@ Repetitoriumsmaterialien:
 | Jun. 15, 2020 | Firmenvortrag | |
 | Jun. 22, 2020 | Firmenvortrag | |
 | Jun. 29, 2020 | Firmenvortrag| |
-| Jul. 06, 2020 | Firmenvortrag | |
+| Jul. 06, 2020 | [Munich RE](https://www.munichre.com/de.html){:target="_blank"}  | |
 | Jul. 13, 2020 | Firmenvortrag| |
