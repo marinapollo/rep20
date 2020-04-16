@@ -11,9 +11,7 @@
 
 - - -
 
-Sie erreichen den Dozenten unter:
-
-sedinkina@cis.uni-muenchen.de
+Sie erreichen den Dozenten unter: sedinkina@cis.uni-muenchen.de
 
 Vorraussetzung für Bestehen des Kurses (Repetitorium):
 Für eines der 5 Themen/Sitzungen muss eine Kurzzusammenfassung geschrieben und abgegeben werden.
