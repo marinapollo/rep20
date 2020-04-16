@@ -1,8 +1,10 @@
-# Repetitorium der Computerlinguistik
+# Repetitorium und Kolloquium zu Computerlinguistisches Arbeiten
 ### Sommersemester 2020
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
- - Zeit: Mo 15:00-15:45 
+ - Zeit: 
+   - Repetitorium: Mo 15:00-15:45 
+   - Kolloquium: Mo 16:15-17:45
  - Raum: 123, Oettingenstr. 67
  - Dozent: Marina Sedinkina
 
