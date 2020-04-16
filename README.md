@@ -6,7 +6,8 @@
    - Repetitorium: Mo 15:00-15:45 
    - Kolloquium: Mo 16:15-17:45
  - Raum: 123, Oettingenstr. 67
- <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per Zoom stattfinden.**</span>
+ 
+ <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per [Zoom](https://www.serviceportal.verwaltung.uni-muenchen.de/aktuelles/alle-news/2020-news/digitale-lehre/index.html#zoom){:target="_blank"} stattfinden.**</span>
  - Dozent: Marina Sedinkina
 
 
