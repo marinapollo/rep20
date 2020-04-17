@@ -7,7 +7,7 @@
    - Kolloquium: Mo 16:15-17:45
  - Raum: 123, Oettingenstr. 67
  
- <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per [Zoom](https://www.serviceportal.verwaltung.uni-muenchen.de/aktuelles/alle-news/2020-news/digitale-lehre/index.html#zoom){:target="_blank"} **</span>
+ <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per [Zoom](https://www.serviceportal.verwaltung.uni-muenchen.de/aktuelles/alle-news/2020-news/digitale-lehre/index.html#zoom){:target="_blank"} stattfinden **</span>
  
  - Die Zoom-URL wird am 20.4. um 12 Uhr an dieser Stelle veröffentlicht: 
  - Dozent: Marina Sedinkina
@@ -24,7 +24,7 @@ Repetitorium:
   - Für eines der 5 Themen/Sitzungen muss eine Kurzzusammenfassung geschrieben und abgegeben werden. Umfang ca. 1-2 Seiten. Bitte an sedinkina@cis.uni-muenchen.de bis 10.08.2020 schicken. Am Ende des Semesters müssen Sie sich für die Prüfung anmelden!!! In dieser Veranstaltungen werden Fähigkeiten erarbeitet, die im Rahmen der Anfertigung der Bachelorarbeit nützlich sind.
 
 Kolloquium:
--  <span style="color:red">**Wichtig!!! Teilen Sie das Thema der Bachelorarbeit hier mit: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScZ6lfU0B2ovh-r_Qkk71FQMKGfTuqYxJfMYknAzoMber8Uiw/viewform){:target="_blank"} stattfinden: **</span>
+-  <span style="color:red">**Wichtig!!! Teilen Sie das Thema der Bachelorarbeit hier mit: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScZ6lfU0B2ovh-r_Qkk71FQMKGfTuqYxJfMYknAzoMber8Uiw/viewform){:target="_blank"} **</span>
 
 
 - Vorraussetzung für Bestehen des Kurses:
