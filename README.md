@@ -7,10 +7,9 @@
    - Kolloquium: Mo 16:15-17:45
  - Raum: 123, Oettingenstr. 67
  
- <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per Zoom stattfinden **</span>
- 
- - Die Zoom-URL wird am 20.4. um 12 Uhr an dieser Stelle veröffentlicht: 
-     - Zoom Link: https://lmu-munich.zoom.us/j/92962046410?pwd=emduVXl2NWY1dXFUa1VPVGtmdDE3QT09
+ - <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per Zoom stattfinden **</span>
+
+     - Zoom Link: [Zoom](https://lmu-munich.zoom.us/j/92962046410?pwd=emduVXl2NWY1dXFUa1VPVGtmdDE3QT09){:target="_blank"} 
      - Password: 80538
  - Dozent: Marina Sedinkina
 
