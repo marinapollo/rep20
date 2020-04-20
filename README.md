@@ -36,7 +36,7 @@ Materialien:
 
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
-| Apr. 20, 2020 | Repetitorium-Übersicht; Wissenschaftliches Schreiben; Kolloquium-Übersicht |[Korrekturlesen](https://www.uni-muenchen.de/studium/studium_aktuell/neuigkeiten/ia/korrekturlesen-studierende/index.html); [Musterprotokolle](Muster-neu.zip){:target="_blank"}  |
+| Apr. 20, 2020 | Repetitorium-Übersicht; Wissenschaftliches Schreiben; Kolloquium-Übersicht |[Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}  |
 | Apr. 27, 2020 | Latex I. Basics; Latex II. Dokumentenstruktur  | |
 | Mai 04, 2020 | Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
