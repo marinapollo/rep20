@@ -30,6 +30,7 @@ Kolloquium:
 
 - Voraussetzung für Bestehen des Kurses:
   - Referat über das Thema der BA halten
+   - die Studenten, die BA NICHT im SS 2020 schreiben, könenn ein Thema aus der Liste auswählen: [Themen](Vortragsthemen_Bachelorkolloquium.txt){:target="_blank"} 
   - Protokolle zur jeden Sitzung abgeben: maria.rozhina@campus.lmu.de
 
 Materialien:
