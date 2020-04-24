@@ -1,0 +1,124 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+MEDICAL DOMAIN THEMEN
+Bis zu 4 mögliche Vorträge:
+-Gehe auf
+https://sites.google.com/view/mediqa2019
+Erkläre im Vortrag das Problem genau, fasse zusammen, was es an Arbeiten/Techniken gibt. 
+1) NLI
+2) RQA
+3) QA
+
+1 Vortrag
+"Multi-label natural language processing to identify diagnosis and procedure codes from MIMIC-III inpatient notes"
+https://arxiv.org/abs/2003.07507
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Bis zu 7 mögliche Vorträge:
+Gehe auf
+https://trec.nist.gov/pubs/call2018.html
+Dort finden sich 7 Tasks, s.u. 
+Erkläre kurz das Anliegen der TEXT RETRIEVAL CONFERENCE. 
+Beschreibe, um was es in diesem Task geht. 
+Recherchiere, ob es Literatur zu diesem Problem gibt. 
+Erkläre im Vortrag das Problem genau, fasse zusammen, was es an Arbeiten/Techniken gibt. 
+(1) CENTRE Track
+(2) Common Core Track
+(3) Complex Answer Retrieval Track
+(4) Incident Streams Track
+(5) News Track
+(6) Precision Medicine Track
+(7) Real-Time Summarization Track
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1-2 Vorträge
+Inter-Coder Agreement for Computational Linguistics. Computational Linguistics, 2008. http://www.mitpressjournals.org/doi/pdf/10.1162/coli.07-034-R2
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2 Vorträge zu Algorithmen bei der Websuche: PageRank und Hits (oder Hubs and authorities)  (Literatur siehe Web):
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Vortragscluster mit 1-6 Vorträgen:
+http://www.paulmckevitt.com/docs/readings/spoken_dialogue_technology.pdf
+1. Dialogsysteme
+Spoken Dialogue Technology: Enabling the Conversational User Interface
+MICHAEL F. MC TEAR
+
+Smart Enough to Talk With Us? Foundations and Challenges for Dialogue Capable AI Systems
+Barbara J. Grosz
+Computational Linguistics March 2018, Vol. 44, No. 1, pp. 1–15
+
+1 Vortrag;
+Identifying and Avoiding Confusion in Dialogue with People with Alzheimer's Disease
+Hamidreza Chinaei, Leila Chan Currie, Andrew Danks, Hubert Lin, Tejas Mehta, and Frank Rudzicz
+Computational Linguistics June 2017, Vol. 43, No. 2, pp. 377–406
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1-2 Vorträge: Was sind Multiword expressions?
+https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00302
+Multiword Expression Processing: A Survey
+Mathieu Constant, Gülşen Eryiğit, Johanna Monti, Lonneke van der Plas, Carlos Ramisch, Michael Rosner, and Amalia Todirascu
+Computational Linguistics December 2017, Vol. 43, No. 4, pp. 837–892
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Unbestimmte Zahl möglicher Vorträge:
+Der nächste Themenkomplex befasst sich mit der Frage: welchen Nutzen kann man aus der Wikipedia für computerlinguistische Aufgaben oder für Aufgaben im Bereich des Information Retrieval ziehen? Unten genannt sind einige Referenzen, die nicht mehr ganz taufrisch sind. 
+Bitte selbst auchz nach aktuellerer Literatur zu diesem Thema schauen!!
+
+Razvan Bunescu and Marius Pasca. Using Encyclopedic Knowledge for Na-
+med Entity Disambiguation. In Proceedings of EACL, pages 79–85, Sheffield,
+UK, 2006.
+
+Silviu Cucerzan. Large-Scale Named Entity Disambiguation Based on Wi-
+kipedia Data. In Proceedings of the 2007 Joint Conference on Empirical Methods
+in Natural Language Processing and Computational Natural Language Learning
+(EMNLP-CoNLL), pages 708–716, Prague, Czech Republic, June 2007. Asso-
+ciation for Computational Linguistics.
+
+Iryna Gurevych, Christof Müller, and Torsten Zesch. What to be? - Electronic
+Career Guidance Based on Semantic Relatedness. In Proceedings of the 45th An-
+nual Meeting of the Association for Computational Linguistics, pages 1032–1039,
+Prague, Czech Republic, Jun 2007. Association for Computational Linguistics.
+
+Jochen L. Leidner. Toponym Resolution in Text: “Which Sheffield ist it?”. In
+Proceedings of the the 27th Annual International ACM SIGIR Conference (SIGIR
+2004), Sheffield, UK, 2004.
+
+K. Nakayama, T. Hara, and S. Nishio. A Thesaurus Construction Method
+from Large Scale Web Dictionaries. In Proceedings of IEEE International Confe-
+rence on Advanced Information Networking and Applications (IEEE AINA), pages
+932–939, 2007.
+
+K. Nakayama, T. Hara, and S. Nishio. Wikipedia Mining - Wikipedia as a Cor-
+pus for Knowledge Extraction. In Proceedings of Annual Wikipedia Conference
+(Wikimania), 2008.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1-2 Vorträge zu verwandtem Thema:
+Gehe auf die Webseite der 
+Wikimedia Conference 2018
+fasse zusammen, was auf der Konferenz passiert. Was ist für CL relevant?
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1 Vortrag zu folgendem Problem: 
+Wie sieht eine gute Interaktion bei der Suche in Dokumentenbeständen oder im Web aus? 
+Welche Probleme und Fragen stellen sich, welche Möglichkeiten gibt es, diese Interaktion interessant zu gestalten?
+Ausgangspunkt siehe Session 2a in 
+https://dl.acm.org/citation.cfm?id=3077136
+Man kann nur die Abstracts sehen, aber das reicht...)
+Man kann von dort ausgehend nach weiterer Literatur zu Search Engine Interfaces suchen....
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Wortähnlichkeit: Levenshtein-Abstand, Wagner-Fischer-Algorithmus (beigelegtes Sript) und Brill-Moore 
+                  ("An improved error model for noisy channel spelling correction", leicht im Web zu finden)
+                  
+                  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1-2 Vorträge
+Frage: Wie kann man in OCR-Dokumenten historischer Texte mit statistischen und linguistischen Methoden vermutete Klassen von 
+OCR-Fehlern finden
+Ulrich Reffle and Christoph Ringlstetter, Unsupervised profiling of OCRed historical documents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
+Automatic quality evaluation and (semi-) automatic improvement of {OCR} models for historical printings, Springmann, Uwe and Fink, Florian and Schulz, Klaus U., ArXiv e-prints,
+http://arxiv.org/abs/1606.05157
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
