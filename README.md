@@ -43,14 +43,14 @@ Materialien:
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
 | Apr. 20, 2020 | [Repetitorium-Übersicht](Repetitorium_der_Computerlinguistik.pdf); [Kolloquium-Übersicht](Kolloquium_der_Computerlinguistik.pdf) | [Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}; [Präsentation-Beispiel](Word_Embeddings_for_Sentiment_Analysis.pdf){:target="_blank"}   |
 | Apr. 27, 2020 | [Wissenschaftliches Schreiben](scientific_writing.pdf);  [Latex I. Basics](slides_latex1.pdf)  | |
-| Mai 04, 2020 | Latex II. Dokumentenstruktur; Aufbau von Machine Learning Experimenten| |
+| Mai 04, 2020 | Latex II. Dokumentenstruktur; Latex III. Präsentationen; Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
-| Mai 18, 2020 | Latex III. Präsentationen | |
+| Mai 18, 2020 | Kolloquium | |
 | Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de){:target="_blank"} | |
 | Jun. 01, 2020 | Kein Repetitorium | |
 | Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} | |
-| Jun. 15, 2020 | Firmenvortrag | |
-| Jun. 22, 2020 | Firmenvortrag | |
-| Jun. 29, 2020 | Firmenvortrag| |
+| Jun. 15, 2020 | Kolloquium | |
+| Jun. 22, 2020 | Kolloquium | |
+| Jun. 29, 2020 | Kolloquium | |
 | Jul. 06, 2020 | [Munich RE](https://www.munichre.com/de.html){:target="_blank"}  | |
 | Jul. 13, 2020 | [TrustYou](https://www.trustyou.com/de/){:target="_blank"} | |
