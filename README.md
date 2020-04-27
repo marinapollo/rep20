@@ -32,14 +32,16 @@ Kolloquium:
   - Referat über das Thema der BA halten
     - die Studenten, die BA NICHT im SS 2020 schreiben, können ein Thema aus der Liste auswählen: [Themen](Vortragsthemen_Bachelorkolloquium.txt){:target="_blank"} 
   - Protokolle zur jeden Sitzung abgeben: maria.rozhina@campus.lmu.de
+    - 12 GUTE Protokolle (nicht Sitzungen!!) reichen für den Schein.
+
 
 Materialien:
 
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
-| Apr. 20, 2020 | [Repetitorium-Übersicht](Repetitorium_der_Computerlinguistik.pdf); [Wissenschaftliches Schreiben](scientific_writing.pdf); [Kolloquium-Übersicht](Kolloquium_der_Computerlinguistik.pdf) | [Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}; [Präsentation-Beispiel](Word_Embeddings_for_Sentiment_Analysis.pdf){:target="_blank"}   |
-| Apr. 27, 2020 | Latex I. Basics; Latex II. Dokumentenstruktur  | |
-| Mai 04, 2020 | Aufbau von Machine Learning Experimenten| |
+| Apr. 20, 2020 | [Repetitorium-Übersicht](Repetitorium_der_Computerlinguistik.pdf); [Kolloquium-Übersicht](Kolloquium_der_Computerlinguistik.pdf) | [Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}; [Präsentation-Beispiel](Word_Embeddings_for_Sentiment_Analysis.pdf){:target="_blank"}   |
+| Apr. 27, 2020 | [Wissenschaftliches Schreiben](scientific_writing.pdf);  Latex I. Basics(slides_latex1.pdf)  | |
+| Mai 04, 2020 | Latex II. Dokumentenstruktur; Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
 | Mai 18, 2020 | Latex III. Präsentationen | |
 | Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de){:target="_blank"} | |
