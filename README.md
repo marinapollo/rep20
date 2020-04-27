@@ -40,7 +40,7 @@ Materialien:
 | Date | slides | materials |
 |-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
 | Apr. 20, 2020 | [Repetitorium-Übersicht](Repetitorium_der_Computerlinguistik.pdf); [Kolloquium-Übersicht](Kolloquium_der_Computerlinguistik.pdf) | [Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}; [Präsentation-Beispiel](Word_Embeddings_for_Sentiment_Analysis.pdf){:target="_blank"}   |
-| Apr. 27, 2020 | [Wissenschaftliches Schreiben](scientific_writing.pdf);  Latex I. Basics(slides_latex1.pdf)  | |
+| Apr. 27, 2020 | [Wissenschaftliches Schreiben](scientific_writing.pdf);  [Latex I. Basics](slides_latex1.pdf)  | |
 | Mai 04, 2020 | Latex II. Dokumentenstruktur; Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
 | Mai 18, 2020 | Latex III. Präsentationen | |
