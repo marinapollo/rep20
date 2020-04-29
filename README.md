@@ -46,10 +46,10 @@ Materialien:
 | Mai 04, 2020 | Latex II. Dokumentenstruktur; Latex III. Präsentationen; Aufbau von Machine Learning Experimenten| |
 | Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
 | Mai 18, 2020 | Kolloquium statt Repetitorium| |
-| Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de){:target="_blank"} | |
+| Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de/services/applied-intelligence-index){:target="_blank"} | |
 | Jun. 01, 2020 | Kein Repetitorium | |
 | Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} | |
-| Jun. 15, 2020 | Firmenvortrag | |
+| Jun. 15, 2020 | [Gini](https://gini.net/de/){:target="_blank"} | |
 | Jun. 22, 2020 | Kolloquium statt Repetitorium| |
 | Jun. 29, 2020 | Kolloquium statt Repetitorium| |
 | Jul. 06, 2020 | [Munich RE](https://www.munichre.com/de.html){:target="_blank"}  | |
