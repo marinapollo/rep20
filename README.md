@@ -44,7 +44,7 @@ Materialien:
 | Apr. 20, 2020 | [Repetitorium-Übersicht](Repetitorium_der_Computerlinguistik.pdf); [Kolloquium-Übersicht](Kolloquium_der_Computerlinguistik.pdf) | [Gliederung-Beispiel](Gliederung_Beispiel.pdf); [Outline-Beispiel](Outline.pdf); [Musterprotokolle](Muster-neu.zip){:target="_blank"}; [Präsentation-Beispiel](Word_Embeddings_for_Sentiment_Analysis.pdf){:target="_blank"}   |
 | Apr. 27, 2020 | [Wissenschaftliches Schreiben](scientific_writing.pdf);  [Latex I. Basics](slides_latex1.pdf)  | [Musterzusammenfassung](Wissenschaftliches_Arbeiten_Muster.pdf){:target="_blank"}|
 | Mai 04, 2020 | [Latex II. Dokumentenstruktur](slides_latex2.pdf) ; [Latex III. Präsentationen](slides_latex3.pdf)   ; [Aufbau von Machine Learning Experimenten](slides_ML.pdf)  | |
-| Mai 11, 2020 | Visualisierung von Daten und Ergebnissen| |
+| Mai 11, 2020 | [Visualisierung von Daten und Ergebnissen](visualization_slides.pdf); | |
 | Mai 18, 2020 | Kolloquium statt Repetitorium| |
 | Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de/services/applied-intelligence-index){:target="_blank"} | |
 | Jun. 01, 2020 | Kein Repetitorium | |
