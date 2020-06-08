@@ -49,7 +49,7 @@ Materialien:
 | Mai 18, 2020 | Kolloquium statt Repetitorium| |
 | Mai 25, 2020|  [Accenture](https://www.accenture.com/de-de/services/applied-intelligence-index){:target="_blank"} | |
 | Jun. 01, 2020 | Kein Repetitorium | |
-| Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} | |
+| Jun. 08, 2020 | [Building Radar](https://buildingradar.com/de/){:target="_blank"} |[Vortrag](Building_Radar_LMU_Presentation.pdf)|
 | Jun. 15, 2020 | [Gini](https://gini.net/de/){:target="_blank"} | |
 | Jun. 22, 2020 | Kolloquium statt Repetitorium| |
 | Jun. 29, 2020 | Kolloquium statt Repetitorium| |
