@@ -35,6 +35,13 @@ Kolloquium:
   - Protokolle (zu den Vorträgen der Bachelorarbeiten) zur jeden Sitzung abgeben: maria.rozhina@campus.lmu.de
     - 12 GUTE Protokolle (nicht Sitzungen!!) reichen für den Schein.
     - Protokolle müssen innerhalb einer Woche nach jedem Kolloqium abgegeben werden.
+    - Zu welchen Vorträgen sollte man die Protokolle NICHT schreiben:
+      - wenn der Vortrag zu kurz war, weil der Student noch keine Zeit hatte, an dem Thema zu arbeiten.
+      - wenn der Vortrag so unverständlich war, dass man kein gutes Protokoll verlangen kann. 
+    - Kriterien, nach welchen die Protokolle bewertet werden:
+      - Verständlichkeit. Man sollte aus dem Protokoll ersehen können, um was es im Vortrag ging, auch ohne den Vortrag gehört zu haben.
+      - Vollständigkeit. Das Protokoll sollte alle wesentlichen Teile des Vortrags umfassen.
+      - Vernünftige Form und Gliederung.
 
 
 
