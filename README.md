@@ -32,7 +32,7 @@ Kolloquium:
   - Referat über das Thema der BA halten
     - Vortragstermine finden sie [hier](BA.md)
     - die Studenten, die BA NICHT im SS 2020 schreiben, können ein Thema aus der Liste auswählen: [Themen](Vortragsthemen_Bachelorkolloquium.txt){:target="_blank"} 
-  - Protokolle zur jeden Sitzung abgeben: maria.rozhina@campus.lmu.de
+  - Protokolle (zu den Vorträgen der Bachelorarbeiten) zur jeden Sitzung abgeben: maria.rozhina@campus.lmu.de
     - 12 GUTE Protokolle (nicht Sitzungen!!) reichen für den Schein.
     - Protokolle müssen innerhalb einer Woche nach jedem Kolloqium abgegeben werden.
 
