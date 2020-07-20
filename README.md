@@ -63,3 +63,5 @@ Materialien:
 | Jul. 06, 2020 | [Munich RE](https://www.munichre.com/de.html){:target="_blank"}  | |
 | Jul. 13, 2020 | [TrustYou](https://www.trustyou.com/de/){:target="_blank"} | [Vortrag](cis_at_trustyou_july_2020.pdf) |
 | Jul. 20, 2020 | Kolloquium statt Repetitorium | |
+| Jul. 27, 2020 | Kein Repetitorium  | |
+| Aug. 3, 2020 | Kolloquium statt Repetitorium | |
