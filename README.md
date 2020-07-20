@@ -9,7 +9,7 @@
  
  - <span style="color:red">**Achtung!!! Die Veranstaltungen werden online per Zoom stattfinden **</span>
 
-     - Zoom Link: [Zoom](https://lmu-munich.zoom.us/j/92962046410?pwd=emduVXl2NWY1dXFUa1VPVGtmdDE3QT09){:target="_blank"} 
+     - Zoom Link: [Zoom](https://lmu-munich.zoom.us/j/98950228355?pwd=Q3ZVMnRnTHp4Z0tRdXJXZnhUa0tNUT09){:target="_blank"} 
      - Password: 80538
  - Dozent: Marina Sedinkina
 
