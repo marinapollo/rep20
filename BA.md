@@ -13,4 +13,4 @@ Vorträge:
 | Jul. 06, 2020 | Sinem Demiraslan; Nadja Seeberg;  Nguyen Huy | Probing Word Embeddings for Factual Knowledge; Comparison of state-of-the-art Text Classification Models;  Combining Hearst Pattern With BERT For Hyponomy Detection |
 | Jul. 13, 2020 | Luise Schulz; Ann-Kathrin Fochler; Vlora Murselji;| Gender Bias; Multi-label natural language processing to identify diagnosis and procedure codes from MIMIC-III inpatient notes; Wikipedia für computerlinguistische Aufgaben; |
 | Jul. 20, 2020 | Leonard Kassow; Sahar Zahidi; | Algorithmus "PageRank" bei der Websuche; Regelbasierte Informationsextraktion aus der Wikipedia; |
-| Aug. 3, 2020 | Claudia Kolano; | Identifying and Avoiding Confusion in Dialogue with People with Alzheimer's Disease |
+| Aug. 3, 2020 | Claudia Kolano; Lan Schönl| Identifying and Avoiding Confusion in Dialogue with People with Alzheimer's Disease; Spoken dialogue technology |
